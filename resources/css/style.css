@@ -1,6 +1,21 @@
 body{text-align: center; font-family: helvetica; }
+
+p{font-size: 14px;}
+
 h1{font-size: 70px; font-weight: bold; color: white;}
-.header {background: url("../images/the-flatiron-building.png");}
+
+h2{font-size: 32px; font-weight: bold; }
+
+h3{font-size: 23px; font-weight: bold; }
+
+.header{background-image: url("../images/the-flatiron-building.png");}
 /*.header {background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);}*/
 
 .index{font-size: 18px; color: white;}
+
+#middle{background-image: url("../images/the-flatiron-building.png");font-size: 23px;
+font-weight: bold; color: white;}
+
+ footer p{font-size: 11px; color: white; background-color: dimgray; text-align: left;}
+
+.footer{font-size: 11px; color: white;}
